@@ -4,9 +4,9 @@ using System.Collections.Generic;
 namespace ThirdOOP.Models {
     public class Card {
 
-        public string StringVal { get; set; }
-        public string Suit { get; set; }
-        public int Val { get; set; }
+        public string StringVal;
+        public string Suit;
+        public int Val;
 
         public Card (string stringVal, string suit, int val) {
             StringVal = stringVal;
