@@ -1,0 +1,13 @@
+C:\Users\lydel\OneDrive\Desktop\CodingDojo\cSharpStack\CSharp_OOP\CSharp_OOP3.0\ThirdOOP\bin\Debug\netcoreapp3.1\ThirdOOP.exe
+C:\Users\lydel\OneDrive\Desktop\CodingDojo\cSharpStack\CSharp_OOP\CSharp_OOP3.0\ThirdOOP\bin\Debug\netcoreapp3.1\ThirdOOP.deps.json
+C:\Users\lydel\OneDrive\Desktop\CodingDojo\cSharpStack\CSharp_OOP\CSharp_OOP3.0\ThirdOOP\bin\Debug\netcoreapp3.1\ThirdOOP.runtimeconfig.json
+C:\Users\lydel\OneDrive\Desktop\CodingDojo\cSharpStack\CSharp_OOP\CSharp_OOP3.0\ThirdOOP\bin\Debug\netcoreapp3.1\ThirdOOP.runtimeconfig.dev.json
+C:\Users\lydel\OneDrive\Desktop\CodingDojo\cSharpStack\CSharp_OOP\CSharp_OOP3.0\ThirdOOP\bin\Debug\netcoreapp3.1\ThirdOOP.dll
+C:\Users\lydel\OneDrive\Desktop\CodingDojo\cSharpStack\CSharp_OOP\CSharp_OOP3.0\ThirdOOP\bin\Debug\netcoreapp3.1\ThirdOOP.pdb
+C:\Users\lydel\OneDrive\Desktop\CodingDojo\cSharpStack\CSharp_OOP\CSharp_OOP3.0\ThirdOOP\obj\Debug\netcoreapp3.1\ThirdOOP.csprojAssemblyReference.cache
+C:\Users\lydel\OneDrive\Desktop\CodingDojo\cSharpStack\CSharp_OOP\CSharp_OOP3.0\ThirdOOP\obj\Debug\netcoreapp3.1\ThirdOOP.AssemblyInfoInputs.cache
+C:\Users\lydel\OneDrive\Desktop\CodingDojo\cSharpStack\CSharp_OOP\CSharp_OOP3.0\ThirdOOP\obj\Debug\netcoreapp3.1\ThirdOOP.AssemblyInfo.cs
+C:\Users\lydel\OneDrive\Desktop\CodingDojo\cSharpStack\CSharp_OOP\CSharp_OOP3.0\ThirdOOP\obj\Debug\netcoreapp3.1\ThirdOOP.csproj.CoreCompileInputs.cache
+C:\Users\lydel\OneDrive\Desktop\CodingDojo\cSharpStack\CSharp_OOP\CSharp_OOP3.0\ThirdOOP\obj\Debug\netcoreapp3.1\ThirdOOP.dll
+C:\Users\lydel\OneDrive\Desktop\CodingDojo\cSharpStack\CSharp_OOP\CSharp_OOP3.0\ThirdOOP\obj\Debug\netcoreapp3.1\ThirdOOP.pdb
+C:\Users\lydel\OneDrive\Desktop\CodingDojo\cSharpStack\CSharp_OOP\CSharp_OOP3.0\ThirdOOP\obj\Debug\netcoreapp3.1\ThirdOOP.genruntimeconfig.cache
