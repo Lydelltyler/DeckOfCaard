@@ -7,7 +7,8 @@ namespace ThirdOOP
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Deck newDeck = new Deck();
+            newDeck.ListCards();
         }
     }
 }
