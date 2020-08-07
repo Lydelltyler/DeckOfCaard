@@ -19,17 +19,23 @@ namespace ThirdOOP.Models {
             return drawedCard;
         }
 
-        public Card Discard (Player player, int index) {
+        public Card Discard (int index) {
 
             if (Hand[index] is object) {
                 Card playersCard = Hand[index];
                 Hand.Remove (playersCard);
                 return playersCard;
             } else {
-                Console.WriteLine ($"{player.Name} doesn't have {Hand[index].StringVal} of {Hand[index].Suit}");
+                Console.WriteLine ($"{Name} doesn't have {Hand[index].StringVal} of {Hand[index].Suit}");
                 return null;
             }
 
+        }
+
+        public void ViewHand(){
+            foreach(Card card in Hand){
+                Console.WriteLine($"{Name} Has a {card.StringVal} of {card.Suit} in hand");
+            }
         }
 
     }

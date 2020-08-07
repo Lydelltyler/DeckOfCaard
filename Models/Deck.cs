@@ -63,10 +63,12 @@ namespace ThirdOOP.Models {
 
         public void Shuffle () {
             Console.WriteLine("**********Shuffling Cards***********");
-            for (int i = 0; i < 52; i++) {
+            Random rand = new Random();
+            for (int i = 0; i < Cards.Count; i++) {
+                int newidx = rand.Next(Cards.Count);
                 Card temp = Cards[i];
-                Cards[i] = Cards[i + 1];
-                Cards[i + 1] = temp;
+                Cards[i] = Cards[newidx];
+                Cards[newidx] = temp;
             }
         }
 
